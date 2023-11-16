@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <p align="center">
  <a href="https://github.com/matias-rivera/restobar/">
     <img src="./logo.png" alt="Logo" width="80" height="80">
@@ -14,7 +14,7 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
+TABLE OF CONTENTS >
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -38,7 +38,7 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+ ABOUT THE PROJECT -->
 
 ## About the Project
 
@@ -47,7 +47,7 @@
 
 Restaurant Management App made with NodeJS, Express, MySQL, ReactJS y Redux.
 
-
+<!--
 ### Built With
 
 -   [ReactJS](https://es.reactjs.org/)
@@ -58,7 +58,7 @@ Restaurant Management App made with NodeJS, Express, MySQL, ReactJS y Redux.
 -   [MySQL](https://www.mysql.com/)
 -   [AdminLTE](https://adminlte.io/)
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 
 ## Getting Started
 
@@ -135,7 +135,7 @@ There are two ways to start this project. The first one which needs some configu
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS 
 
 ## Acknowledgements
 
